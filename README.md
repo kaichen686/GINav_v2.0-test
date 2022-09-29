@@ -22,6 +22,4 @@ The main features of the software are: <br>
 * Support forward/backward RTS sommoth (new)<br>
 
 ## SPAN-IGM-A1
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kaichen686/GINav-test1/master/CPT/1.tif">
-</div>
+![image] (https://raw.githubusercontent.com/kaichen686/GINav-test1/master/CPT/1.tif)
