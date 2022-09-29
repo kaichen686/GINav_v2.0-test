@@ -1,11 +1,10 @@
-# GINav-test1
-a repo for learning git
-
-
-
 # GINav-test
 This is a repository for sharing test reports of GNIav v2.0
 GINav v2.0 is an upgraded version of GINav v1.0, which is developed based on C language. Compared with GINav v1.0, GINav v2.0 has done a lot of optimization and improvement <br>
+
+*******************************************
+The test report is available as a PDF file
+*******************************************
 
 The main features of the software are: <br>
 * Support GNSS absolute positioning modes, include standard single positioning (SPP) and precise single positioning (PPP) <br>
@@ -20,6 +19,3 @@ The main features of the software are: <br>
 * Support more robust INS-aided GNSS quality control strategies (new)<br>
 * Support forward/backward filter sommoth (new)<br>
 * Support forward/backward RTS sommoth (new)<br>
-
-## SPAN-IGM-A1
-![image](https://raw.githubusercontent.com/kaichen686/GINav-test1/master/CPT/1.tif)
