@@ -1,4 +1,4 @@
-# GINav-test
+# GINav-v2.0 Test
 This is a repository for sharing test reports of GNIav v2.0 <br>
 GINav v2.0 is developed based on C language. Compared with [GINav v1.0](https://github.com/kaichen686/GINav), GINav v2.0 has done a lot of optimization and improvement <br>
 *******************************************
