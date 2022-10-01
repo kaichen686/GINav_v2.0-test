@@ -16,5 +16,5 @@ The main features of the software are: <br>
 * Support lever-arm, scale factor error and cross-coupling error estimation (new)<br>
 * Support ZUPT (new)<br>
 * Support more robust INS-aided GNSS quality control strategies (new)<br>
-* Support forward/backward filter sommoth (new)<br>
-* Support forward/backward RTS sommoth (new)<br>
+* Support forward/backward filter smooth (new)<br>
+* Support forward/backward RTS smooth (new)<br>
